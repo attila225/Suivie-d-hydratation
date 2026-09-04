@@ -726,11 +726,6 @@ fun EmptyHistoryCard(modifier: Modifier = Modifier) {
     }
 }
 
-// ---------------------------------------------------------------------------
-// Previews : permettent de voir l'écran dans le panneau "Preview" d'Android
-// Studio (menu Split/Design à droite de l'éditeur), sans avoir besoin de
-// lancer un émulateur ou un téléphone.
-// ---------------------------------------------------------------------------
 
 @Preview(showBackground = true, backgroundColor = 0xFF0D1B1E)
 @Composable

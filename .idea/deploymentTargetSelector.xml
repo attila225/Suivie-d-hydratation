@@ -8,6 +8,9 @@
       <SelectionState runConfigName="HydrationScreenWithHistoryPreview">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="HydrationScreenEmptyPreview">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
